@@ -99,7 +99,7 @@ main h2 {
 }
 
 main img {
-    width: 47%;
+    width: 50%;
     display: block;
     margin: auto;
 }
@@ -109,7 +109,7 @@ main img {
 }
 
 .contenedor-imagenes img:first-child {
-    margin-right: 10px;
+    margin:auto
 }
 
 p {
